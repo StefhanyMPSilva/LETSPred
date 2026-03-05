@@ -11,7 +11,7 @@
 </div>  
 
 ## Introduction
-This package was developed as an extension of the [EDTA pipeline](https://github.com/...), with the aim of providing a graphical interface for users. The purpose of EDTA-GUI is to make the use of EDTA more accessible, meeting the needs of researchers at different levels of experience – from beginners to experts – and facilitating the analysis and annotation of transposable elements in genomes. EDTA-GUI also features AnnoTEP mode, an extension of EDTA modified to annotate plant genomes comprehensively.
+This package was developed as an extension of the [LETSPred](https://github.com/...), with the aim of providing a graphical interface for users. The purpose of EDTA-GUI is to make the use of EDTA more accessible, meeting the needs of researchers at different levels of experience – from beginners to experts – and facilitating the analysis and annotation of transposable elements in genomes. EDTA-GUI also features AnnoTEP mode, an extension of EDTA modified to annotate plant genomes comprehensively.
 
 ## Installing LETSPred
 LETSPred runs locally and can be installed in different ways, depending on your preferences and needs. In this tutorial, we will guide you through two main installation methods: the traditional method and installation via Docker. Both methods are detailed to ensure a smooth and efficient setup on your machine.
