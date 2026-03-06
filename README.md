@@ -1,7 +1,7 @@
 <div align="center"> 
-    <img src="logogenerica.png" alt="Logo" style="width: 15rem">
-</div><br>
-  
+    <img src="semlogo.jpg" alt="Logo" style="width: 15rem">
+</div>
+
 # LETSPred
 <h3>Ligand Evaluation Tool and Smart Prediction</h3>
 
