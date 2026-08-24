@@ -1,5 +1,5 @@
 <div align="center"> 
-    <img src="semlogo.jpg" alt="Logo" style="width: 15rem">
+    <img src="LOGO_Oficial.png" alt="Logo" style="width: 15rem">
 </div>
 
 # LETSPred
