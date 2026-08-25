@@ -46,10 +46,11 @@ Detailed reports:
 - Parameter tuning
 - Reuse of generated models
 
----
-
+#
 **Conclusion:**  
 LETSPred constitutes a robust and standardized resource to support **drug discovery research**.
+
+---
 
 ## Installing LETSPred
 
