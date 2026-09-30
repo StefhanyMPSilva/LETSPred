@@ -50,6 +50,11 @@ Detailed reports:
 **Conclusion:**  
 LETSPred constitutes a robust and standardized resource to support **drug discovery research**.
 
+
+<div align="center"> 
+    <img src="Create.png" alt="create" style="width: 50rem">
+</div>
+
 ---
 
 ## Installing LETSPred
