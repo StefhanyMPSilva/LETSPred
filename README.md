@@ -36,7 +36,7 @@ Detailed reports:
  
 - **Applicability Domain:**
   - Graphic
-  - Limits Eclidians and Mahalanobis
+  - Limits Euclidians and Mahalanobis
 
 - **Prediction:**
   - Bioactivity of Compounds (actives and inactives)
