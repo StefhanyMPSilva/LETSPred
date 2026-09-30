@@ -14,7 +14,7 @@
 </div>
  
 
-The LETSPred is a **machine learning pipeline** designed to predict the biological activity of chemical compounds against relevant biological targets.  
+The LETSPred is a machine learning pipeline designed to **predict the biological activity of chemical compounds** against relevant biological targets.  
 Its distinctive feature lies in the integration of **molecular docking data** with **physicochemical descriptors** of ligands, derived from the GOLD and DataWarrior software.  
 This synergy enhances predictive accuracy, surpassing the limitations of scoring functions when applied in isolation.
 
