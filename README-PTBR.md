@@ -1,6 +1,6 @@
-# LETSpred
+# LETSPred
 
-LETSpred é uma ferramenta de pipeline de aprendizado de máquina para prever a atividade de compostos químicos contra alvos biológicos. Ela utiliza descritores moleculares (DataWarrior) e pontuações de docking (GOLD) para classificar compostos como ativos ou inativos.
+LETSPred é uma ferramenta de pipeline de aprendizado de máquina para prever a atividade de compostos químicos contra alvos biológicos. Ela utiliza descritores moleculares (DataWarrior) e pontuações de docking (GOLD) para classificar compostos como ativos ou inativos.
 
 A ferramenta está disponível em dois modos:
 - **CLI (Interface de Linha de Comando)** — executa via Docker (sem instalar Python) ou diretamente no Python local
