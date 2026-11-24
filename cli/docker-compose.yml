@@ -1,0 +1,16 @@
+services:
+  mlcli:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      # args:
+      #   - USER_ID=${UID:-1000}
+      #   - GROUP_ID=${GID:-1000}
+    container_name: mlcli
+    # volumes:
+    #   - ./:/app
+    # tty: true
+    # stdin_open: true
+    # environment:
+    #   - PYTHONPATH=/app 
+    image: annotep/letspredcli:v1
